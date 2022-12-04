@@ -1,0 +1,88 @@
+.login-background {
+    height: 100vh;
+    background: linear-gradient(to right, #ca7a94,#c74672, #ba184f, #94133f, #5c0a26);
+}
+
+.login-container {
+    padding: 16px;
+    border-radius: 12px;
+    font-size: 16px;
+    color: rgb(245, 243, 243);
+}
+
+.heading {
+    background: linear-gradient(to right, #ffffff,#ffffff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 24px;
+}
+
+.titleInput {
+    margin-bottom: 8px;
+}
+
+.input {
+    background-color: #ffffff;
+    border-radius: 50px;
+    padding: 12px 15px 12px 15px;
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    border: 1px solid #F3E5F5;
+}
+
+input:focus {
+    box-shadow: none !important;
+    border: 1px solid #457373 !important;
+    outline-width: 0;
+    font-weight: 400
+}
+
+
+.register {
+    margin: 8px;
+    border-radius: 50px;
+    color: #fff;
+    padding: 3px 9px;
+    border: 2px solid #ffffff;
+    text-decoration: none;
+}
+
+.register:hover {
+    color: rgb(10, 10, 10);
+    background-image: linear-gradient(to right, #dc8ba7,#c74672, #ba184f, #94133f, #4a091f);
+    color:#fff;
+    opacity: 1;
+}
+
+
+.password-input {
+    position: relative;
+}
+
+.icon-eyes {
+    position: absolute;
+    // display: flex;
+    // justify-content: end;
+    top: 17px;
+    right: 20px;
+    cursor: pointer;
+    color:rgb(0, 0, 0)
+}
+
+.forgot-pass{
+    text-decoration: none;
+    border-radius: 50px;
+    color: #fff !important;
+    padding: 1px 9px;
+    border: 2px solid #ffffff;
+}
+
+.forgot-pass:hover{
+    color: rgb(10, 10, 10);
+    background-image: linear-gradient(to right, #dc8ba7,#c74672, #ba184f, #94133f, #4a091f);
+    color:#fff;
+    opacity: 1;
+}
+
+

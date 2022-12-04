@@ -1,0 +1,51 @@
+{
+    "common": {
+        "add": "Thêm",
+        "edit": "Sửa",
+        "delete": "Xóa",
+        "decentralize": "Phân quyền",
+        "close": "Đóng",
+        "save": "Lưu",
+        "refresh": "Refresh",
+        "accept": "Chấp nhận",
+        "confirm": "Xác nhận",
+        "confirm-this-task": "Bạn có chắc chắn thực hiện tác vụ này?",
+        "fail-to-load-data": "Không thể tải về dữ liệu",
+        "unknown-error": "Có lỗi xảy ra",
+        "internal-server-error": "Lỗi kết nối",
+        "bad-request": "Yêu cầu không hợp lệ",
+        "forbiden-request": "Thông tin truyền vào không hợp lệ",
+        "fail-to-load-all-code": "Không thể tải về dữ liệu allcode",
+        "sum": "Tổng",
+        "date-range-invalid": "Khoảng thời gian không hợp lệ"
+    },
+    "login": {
+        "login": "ĐĂNG NHẬP",
+        "email": "Địa Chỉ Email",
+        "password": "Mật Khẩu",
+        "userpass-wrong": "Sai tên đăng nhập hoặc mật khẩu!",
+        "submit": "Đăng Nhập",
+        "account": "Chưa có tài khoản?",
+        "join": "Đăng ký ngay"
+    },
+    "menu": {
+        "hello": "Xin Chào",
+        "vietnamese": "Tiếng Việt",
+        "english": "Tiếng Anh",
+        "logout": "Đăng Xuất"
+    },
+    "table": {
+        "id": "Stt",
+        "content": "Nội Dung",
+        "deadline": "Thời Gian",
+        "actions": "Xóa/Sửa"
+    },
+    "register": {
+        "username": "Tên Người Dùng",
+        "register": "ĐĂNG KÝ",
+        "email": "Địa Chỉ Email",
+        "password": "Mật Khẩu",
+        "confirm-pass": "Xác Nhận Lại Mật Khẩu",
+        "submit": "Đăng Ký"
+    }
+}
